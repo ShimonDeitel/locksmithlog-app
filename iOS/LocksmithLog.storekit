@@ -1,0 +1,27 @@
+{
+  "identifier" : "locksmithlog",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "locksmithlog_pro",
+      "localizations" : [
+        {
+          "description" : "Unlock unlimited entries and pro features.",
+          "displayName" : "Locksmith Log Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.locksmithlog.pro",
+      "referenceName" : "Locksmith Log Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
